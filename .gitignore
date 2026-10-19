@@ -1,0 +1,7 @@
+/build*/
+/results/
+*.ncu-rep
+*.nsys-rep
+*.qdrep
+*.mtx
+__pycache__/
